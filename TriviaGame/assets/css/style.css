@@ -12,6 +12,10 @@ body {
     text-align: center;
 }
 
+#timeleft{
+    height: 30px;
+}
+
 #questionblock {
     text-align: center;
     font-weight: bold;
